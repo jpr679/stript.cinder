@@ -258,5 +258,5 @@ msgid "maximumSourceWeight must be between 1 and 1000000"
 msgstr ""
 
 msgctxt "#32405"
-msgid "All sources have a weight of 0. Nothing is going to play"
+msgid "All sources have a weight of 0. Nothing is going to play until you increase at least one."
 msgstr ""
