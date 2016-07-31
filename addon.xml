@@ -16,7 +16,7 @@
 	<extension point="kodi.context.item">
 		<menu id="kodi.core.main">
 			<item library="scriptcontextmenuoption.py">
-				<label>32001</label>
+				<label>32004</label>
 				<visible>true</visible>
 			</item>
 		</menu>

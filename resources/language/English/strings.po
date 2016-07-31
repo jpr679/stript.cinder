@@ -9,7 +9,7 @@ msgctxt "#32000"
 msgid "General"
 msgstr ""
 
-msgctxt "#32001"
+msgctxt "#32004"
 msgid "Run Cinder from here"
 msgstr ""
 
