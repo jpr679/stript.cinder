@@ -17,7 +17,7 @@
 		<menu id="kodi.core.main">
 			<item library="scriptcontextmenuoption.py">
 				<label>32004</label>
-				<visible>true</visible>
+				<visible>StringCompare(ListItem.dbtype,tvshow) | StringCompare(ListItem.dbtype,season)</visible>
 			</item>
 		</menu>
 	</extension>
