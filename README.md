@@ -73,7 +73,7 @@ You only need to do this once.
 
 ##Configuring the Cinder Plug-in
 
-###"Run Cinder from here" context menu option -
+###"Run Cinder from here" context menu option
 
 If you right-click on a TV Show series title you will see a pop-up menu. One of the options is
 "Run Cinder from here". If you click on it Cinder will run from that level and deeper. Doing so will not alter
